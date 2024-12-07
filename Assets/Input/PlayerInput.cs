@@ -68,17 +68,6 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
             ""bindings"": [
                 {
                     ""name"": """",
-                    ""id"": ""669e37a0-2878-44fe-a181-c56992ac8ffa"",
-                    ""path"": ""<Touchscreen>/Press"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Punch"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
                     ""id"": ""6e2c3dd7-c282-4bfd-908f-25d3b31d7eaa"",
                     ""path"": ""<Keyboard>/k"",
                     ""interactions"": """",
